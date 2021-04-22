@@ -14,8 +14,8 @@ This project is python based code for ML modeling fuel pipeline leaks submitted 
     2) Data10.csv - Leak detection time and distance. use this file for the location modeling stage.
 ## Preprocessing
     Run the following files as preprocessing for the modeling stage:
-    1) DataPrep - Noise reduction and splits .ipynb
-    2) DataPrep - Normalize Data.ipynb
+    1) [DataPrep - Noise reduction and splits .ipynb](https://github.com/AnatKarny/FuelLeakDetection/blob/main/DataPrep%20-%20Noise%20reduction%20and%20splits%20.ipynb)
+    2) [DataPrep - Normalize Data.ipynb](https://github.com/AnatKarny/FuelLeakDetection/blob/main/DataPrep%20-%20Normalize%20Data.ipynb)
     3) DataPrep - Statistical feature extraction.ipynb
     4) DataPrep - Spectral analysis feature extraction.ipynb
     5) DataPrep - feature selection.ipynb
